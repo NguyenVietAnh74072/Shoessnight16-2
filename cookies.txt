@@ -1,0 +1,17 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+campe-theme.myshopify.com	TRUE	/43770380448/checkouts/fe9bd5eb0cac748e209fad5341958a7e	FALSE	1999999999	checkout	eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaVUzTkdFNVlUQmpOalV3T1dVMk0yRTJNbVkxT1RWalpqWTVaall5T0RRMU1BWTZCa1ZVIiwiZXhwIjoiMjAyMS0wMy0xMlQxNDo0MjoxOC4xMjhaIiwicHVyIjoiY29va2llLmNoZWNrb3V0In19--1e1b15d112ec5f7ba6d51bb05cc11b9549b84b9f
+campe-theme.myshopify.com	TRUE	/43770380448	FALSE	1999999999	checkout_token	eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaVZtWlRsaVpEVmxZakJqWVdNM05EaGxNakE1Wm1Ga05UTTBNVGsxT0dFM1pRWTZCa1ZVIiwiZXhwIjoiMjAyMi0wMi0xOVQxNDo0MjoxOC4xMjhaIiwicHVyIjoiY29va2llLmNoZWNrb3V0X3Rva2VuIn19--ed43429f1245fffa93fad195921bb8c5a6560dc4
+campe-theme.myshopify.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+campe-theme.myshopify.com	TRUE	/	FALSE	1999999999	cart	9ac8dbba1fb591cfdfb9d94e0a433010
+campe-theme.myshopify.com	TRUE	/	FALSE	1999999999	cart_ts	1613745615
+campe-theme.myshopify.com	TRUE	/	FALSE	1999999999	cart_ver	gcp-us-east1%3A1
+campe-theme.myshopify.com	TRUE	/	FALSE	1999999999	cart_currency	USD
+campe-theme.myshopify.com	TRUE	/	FALSE	1999999999	cart_sig	acadfe2d93e0fc2e8859b86f0d3decfc
+campe-theme.myshopify.com	TRUE	/	FALSE	1999999999	_y	f4e4c1ce-d0bc-49e9-b65b-cee1df16457f
+campe-theme.myshopify.com	TRUE	/	FALSE	1999999999	_s	2ac1495d-b132-4287-af53-3a3702b3d75c
+campe-theme.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_y	f4e4c1ce-d0bc-49e9-b65b-cee1df16457f
+campe-theme.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_s	2ac1495d-b132-4287-af53-3a3702b3d75c
+campe-theme.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_fs	2021-02-19T15%3A01%3A28Z
+campe-theme.myshopify.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
